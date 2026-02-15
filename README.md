@@ -64,17 +64,6 @@ Resonant is built on a simple principle: **your voice is yours**.
 3. Launch Resonant and complete the onboarding setup
 4. Use your keyboard shortcut to start dictating anywhere
 
-## Pricing
-
-| | Free | Pro |
-|---|---|---|
-| Dictation & Memo | 5,000 words/week | Unlimited |
-| Languages | 25 | 25 |
-| Offline & on-device | Yes | Yes |
-| Dispatch mode | — | Yes |
-| Adaptive tone | — | Yes |
-| Live preview | — | Yes |
-
 ## Links
 
 - [Website](https://www.onresonant.com)
