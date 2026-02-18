@@ -2,7 +2,7 @@
 
 > Speak naturally. Write instantly. Everything stays on your Mac.
 
-Resonant is the best voice dictation and transcription app for macOS. All speech recognition runs locally on your machine using on-device AI — your voice never leaves your computer. No cloud. No subscriptions. No data collection.
+Resonant is the best voice dictation and transcription app for macOS. All speech recognition runs locally on your machine using on-device AI — your voice never leaves your computer. No cloud. No data collection.
 
 **[Download the latest release](https://github.com/resonantcom/resonant-downloads/releases/latest)** · **[Learn more at onresonant.com](https://www.onresonant.com)**
 
@@ -43,7 +43,7 @@ Resonant is built on a simple principle: **your voice is yours**.
 
 - Audio is processed in real-time and immediately discarded
 - No telemetry on what you dictate
-- No data monetization — we sell software, not data
+- No data monetization
 - Crash reports (via Sentry) never include voice data or transcriptions
 - GDPR compliant
 
